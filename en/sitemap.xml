@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/"
+                href="//localhost:1313/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="//localhost:1313/"
                 />
   </url><url>
-    <loc>/2-etl-in-bigdata/2.1-data-models/</loc>
+    <loc>//localhost:1313/2-etl-in-bigdata/2.1-data-models/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-etl-in-bigdata/2.1-data-models/"
+                href="//localhost:1313/vi/2-etl-in-bigdata/2.1-data-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-etl-in-bigdata/2.1-data-models/"
+                href="//localhost:1313/2-etl-in-bigdata/2.1-data-models/"
                 />
   </url><url>
-    <loc>/1-overview-bigdata-and-ecosystem/</loc>
+    <loc>//localhost:1313/1-overview-bigdata-and-ecosystem/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-overview-bigdata-and-ecosystem/"
+                href="//localhost:1313/vi/1-overview-bigdata-and-ecosystem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-overview-bigdata-and-ecosystem/"
+                href="//localhost:1313/1-overview-bigdata-and-ecosystem/"
                 />
   </url><url>
-    <loc>/2-etl-in-bigdata/2.2-storage-system/</loc>
+    <loc>//localhost:1313/2-etl-in-bigdata/2.2-storage-system/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-etl-in-bigdata/2.2-storage-system/"
+                href="//localhost:1313/vi/2-etl-in-bigdata/2.2-storage-system/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-etl-in-bigdata/2.2-storage-system/"
+                href="//localhost:1313/2-etl-in-bigdata/2.2-storage-system/"
                 />
   </url><url>
-    <loc>/2-etl-in-bigdata/</loc>
+    <loc>//localhost:1313/2-etl-in-bigdata/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-etl-in-bigdata/"
+                href="//localhost:1313/vi/2-etl-in-bigdata/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-etl-in-bigdata/"
+                href="//localhost:1313/2-etl-in-bigdata/"
                 />
   </url><url>
-    <loc>/2-etl-in-bigdata/2.3-etl-in-bigdata/</loc>
+    <loc>//localhost:1313/2-etl-in-bigdata/2.3-etl-in-bigdata/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-etl-in-bigdata/2.3-etl-in-bigdata/"
+                href="//localhost:1313/vi/2-etl-in-bigdata/2.3-etl-in-bigdata/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-etl-in-bigdata/2.3-etl-in-bigdata/"
+                href="//localhost:1313/2-etl-in-bigdata/2.3-etl-in-bigdata/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/categories/"
+                href="//localhost:1313/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="//localhost:1313/categories/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/tags/"
+                href="//localhost:1313/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="//localhost:1313/tags/"
                 />
   </url>
 </urlset>
